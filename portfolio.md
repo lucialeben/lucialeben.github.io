@@ -1,4 +1,4 @@
 # vídeo
-# texto
+# contenido
 # foto
 # social media
